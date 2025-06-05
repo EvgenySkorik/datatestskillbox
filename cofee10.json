@@ -1,0 +1,72 @@
+[
+  {
+    "coffee": "Brazil Santos",
+    "title": "Medium Roast Coffee",
+    "origin": "Minas Gerais, Brazil",
+    "intensifier": "Balanced & Smooth",
+    "notes": ["Nutty", "Chocolatey", "Smooth"]
+  },
+  {
+    "coffee": "Ethiopian Yirgacheffe",
+    "title": "Light Roast Coffee",
+    "origin": "Yirgacheffe Region, Ethiopia",
+    "intensifier": "Fruity & Floral",
+    "notes": ["Citrus", "Flowery", "Berries"]
+  },
+  {
+    "coffee": "Colombia Supremo",
+    "title": "Dark Roast Coffee",
+    "origin": "Huila Province, Colombia",
+    "intensifier": "Rich & Bold",
+    "notes": ["Deep Chocolate", "Spicy", "Full-Bodied"]
+  },
+  {
+    "coffee": "Kenya AA",
+    "title": "Medium Roast Coffee",
+    "origin": "Nyeri County, Kenya",
+    "intensifier": "Bright Acidity",
+    "notes": ["Blackcurrant", "Wine-like", "Complex"]
+  },
+  {
+    "coffee": "Sumatra Mandheling",
+    "title": "Dark Roast Coffee",
+    "origin": "West Sumatra, Indonesia",
+    "intensifier": "Earthy & Mellow",
+    "notes": ["Herbal", "Woody", "Low Acid"]
+  },
+  {
+    "coffee": "Guatemala Antigua",
+    "title": "Medium Roast Coffee",
+    "origin": "Antigua Region, Guatemala",
+    "intensifier": "Well-Rounded Flavor",
+    "notes": ["Buttery", "Tobacco", "Soft Citrus"]
+  },
+  {
+    "coffee": "Costa Rica Tarrazú",
+    "title": "Light Roast Coffee",
+    "origin": "Tarrazú Valley, Costa Rica",
+    "intensifier": "Clean & Bright",
+    "notes": ["Lemon Zest", "Green Apple", "Floral Hues"]
+  },
+  {
+    "coffee": "Mexico Chiapas",
+    "title": "Medium Roast Coffee",
+    "origin": "Chiapas State, Mexico",
+    "intensifier": "Classic Latin American Profile",
+    "notes": ["Roasted Nuts", "Cocoa", "Subtle Spice"]
+  },
+  {
+    "coffee": "Papua New Guinea Peaberry",
+    "title": "Medium Roast Coffee",
+    "origin": "Eastern Highlands, Papua New Guinea",
+    "intensifier": "Unique Tropical Notes",
+    "notes": ["Honeysuckle", "Vanilla Bean", "Strawberry"]
+  },
+  {
+    "coffee": "India Monsooned Malabar",
+    "title": "Dark Roast Coffee",
+    "origin": "Western Ghats, India",
+    "intensifier": "Moist Earthiness",
+    "notes": ["Malty", "Smokey", "Heavy Body"]
+  }
+]
